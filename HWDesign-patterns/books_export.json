@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Война и мир",
+    "author": "Лев Толстой",
+    "year": 1869,
+    "isbn": "978-5-389-07464-0",
+    "status": "borrowed",
+    "borrower_id": 1
+  },
+  {
+    "id": 2,
+    "title": "Преступление и наказание",
+    "author": "Федор Достоевский",
+    "year": 1866,
+    "isbn": "978-5-699-40445-2",
+    "status": "borrowed",
+    "borrower_id": 2
+  },
+  {
+    "id": 3,
+    "title": "Мастер и Маргарита",
+    "author": "Михаил Булгаков",
+    "year": 1967,
+    "isbn": "978-5-389-06228-9",
+    "status": "available",
+    "borrower_id": null
+  }
+]

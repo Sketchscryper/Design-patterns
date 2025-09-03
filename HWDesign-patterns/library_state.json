@@ -1,0 +1,67 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Война и мир",
+      "author": "Лев Толстой",
+      "year": 1869,
+      "isbn": "978-5-389-07464-0",
+      "status": "borrowed",
+      "borrower_id": 1
+    },
+    {
+      "id": 2,
+      "title": "Преступление и наказание",
+      "author": "Федор Достоевский",
+      "year": 1866,
+      "isbn": "978-5-699-40445-2",
+      "status": "borrowed",
+      "borrower_id": 2
+    },
+    {
+      "id": 3,
+      "title": "Мастер и Маргарита",
+      "author": "Михаил Булгаков",
+      "year": 1967,
+      "isbn": "978-5-389-06228-9",
+      "status": "available",
+      "borrower_id": null
+    }
+  ],
+  "librarians": [
+    {
+      "id": 1,
+      "name": "Анна Сидорова",
+      "email": "anna@library.ru",
+      "phone": "+7-495-123-45-67",
+      "position": "Главный библиотекарь"
+    },
+    {
+      "id": 2,
+      "name": "Мария Кузнецова",
+      "email": "maria@library.ru",
+      "phone": "+7-495-765-43-21",
+      "position": "Библиотекарь"
+    }
+  ],
+  "readers": [
+    {
+      "id": 1,
+      "name": "Иван Иванов",
+      "email": "ivan@mail.com",
+      "phone": "+7-999-123-45-67",
+      "books_borrowed": [
+        1
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Петр Петров",
+      "email": "petr@mail.com",
+      "phone": "+7-999-765-43-21",
+      "books_borrowed": [
+        2
+      ]
+    }
+  ]
+}

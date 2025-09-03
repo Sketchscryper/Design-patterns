@@ -1,0 +1,39 @@
+2025-09-03 07:56:38,312 - INFO - Book added: Война и мир by Лев Толстой
+2025-09-03 07:56:38,312 - INFO - Book added: Преступление и наказание by Федор Достоевский
+2025-09-03 07:56:38,312 - INFO - Book added: Мастер и Маргарита by Михаил Булгаков
+2025-09-03 07:56:38,312 - INFO - Reader added: Иван Иванов
+2025-09-03 07:56:38,312 - INFO - Reader added: Петр Петров
+2025-09-03 07:56:38,312 - INFO - Librarian added: Анна Сидорова
+2025-09-03 07:56:38,312 - INFO - Librarian added: Мария Кузнецова
+2025-09-03 07:56:38,312 - INFO - Book 'Война и мир' borrowed by Иван Иванов
+2025-09-03 07:56:38,312 - INFO - Book 'Преступление и наказание' borrowed by Петр Петров
+2025-09-03 07:56:38,313 - INFO - Exported books to books_export.json
+2025-09-03 07:56:38,313 - INFO - Exported readers to readers_export.json
+2025-09-03 07:56:38,313 - INFO - Library state saved
+2025-09-03 07:56:38,314 - INFO - Book 'Война и мир' returned
+2025-09-03 07:58:17,086 - INFO - Book added: Война и мир by Лев Толстой
+2025-09-03 07:58:17,086 - INFO - Book added: Преступление и наказание by Федор Достоевский
+2025-09-03 07:58:17,086 - INFO - Book added: Мастер и Маргарита by Михаил Булгаков
+2025-09-03 07:58:17,086 - INFO - Reader added: Иван Иванов
+2025-09-03 07:58:17,086 - INFO - Reader added: Петр Петров
+2025-09-03 07:58:17,086 - INFO - Librarian added: Анна Сидорова
+2025-09-03 07:58:17,086 - INFO - Librarian added: Мария Кузнецова
+2025-09-03 07:58:17,086 - INFO - Book 'Война и мир' borrowed by Иван Иванов
+2025-09-03 07:58:17,086 - INFO - Book 'Преступление и наказание' borrowed by Петр Петров
+2025-09-03 07:58:17,086 - INFO - Exported books to books_export.json
+2025-09-03 07:58:17,087 - INFO - Exported readers to readers_export.json
+2025-09-03 07:58:17,087 - INFO - Library state saved
+2025-09-03 07:58:17,087 - INFO - Book 'Война и мир' returned
+2025-09-03 08:00:59,515 - INFO - Book added: Война и мир by Лев Толстой
+2025-09-03 08:00:59,515 - INFO - Book added: Преступление и наказание by Федор Достоевский
+2025-09-03 08:00:59,515 - INFO - Book added: Мастер и Маргарита by Михаил Булгаков
+2025-09-03 08:00:59,515 - INFO - Reader added: Иван Иванов
+2025-09-03 08:00:59,515 - INFO - Reader added: Петр Петров
+2025-09-03 08:00:59,515 - INFO - Librarian added: Анна Сидорова
+2025-09-03 08:00:59,515 - INFO - Librarian added: Мария Кузнецова
+2025-09-03 08:00:59,515 - INFO - Book 'Война и мир' borrowed by Иван Иванов
+2025-09-03 08:00:59,515 - INFO - Book 'Преступление и наказание' borrowed by Петр Петров
+2025-09-03 08:00:59,515 - INFO - Exported books to books_export.json
+2025-09-03 08:00:59,516 - INFO - Exported readers to readers_export.json
+2025-09-03 08:00:59,516 - INFO - Library state saved
+2025-09-03 08:00:59,516 - INFO - Book 'Война и мир' returned

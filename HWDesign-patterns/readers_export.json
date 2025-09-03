@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Иван Иванов",
+    "email": "ivan@mail.com",
+    "phone": "+7-999-123-45-67",
+    "books_borrowed": [
+      1
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Петр Петров",
+    "email": "petr@mail.com",
+    "phone": "+7-999-765-43-21",
+    "books_borrowed": [
+      2
+    ]
+  }
+]
